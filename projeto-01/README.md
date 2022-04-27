@@ -16,7 +16,7 @@
 <p>
 Moveis Customizados foi um projeto desenvolvido durante o stage 02 do explorer.
 
-A ideia do projeto é aplicar os conhecimentos introdutorios de HTML e CSS atraves de um projeto pratico que vai desde como utilizar/usufruir do figma até a aplicação de conceitos como alinhamentos, cores e fontes, espaçamentos, posicionamentos e entre outros.
+A ideia do projeto é aplicar os conhecimentos introdutorios de HTML e CSS atraves de um projeto pratico que vai desde como utilizar/usufruir do figma até a aplicação de conceitos como alinhamentos, cores e fontes, espaçamentos, posicionamentos entre outros.
 
 </p>
 
