@@ -42,7 +42,6 @@ Aplicação desenvolvida usando as seguintes tecnologias:
   <li>Interpretação de layouts (Figma)</li>
   <li>Fundamentos do HTML e CSS</li>
   <li>Tags & atributos</li>
-  <li>Semântica</li>
 </ul>
 
 ---
