@@ -7,7 +7,7 @@
 <h1>🖥️ Preview</h1>
 
 <p>
-  	<img align="center" alt="Rocketseat Explorer" src="./github/banner_project_02.png">
+  	<img align="center" alt="Rocketseat Explorer" src="./../github/banner_project_02.png">
 </p>
 
 ---
